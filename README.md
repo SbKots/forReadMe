@@ -178,12 +178,6 @@ public class User
 
 ---
 
-## Вывод
-
-**README-файл** оформлен с использованием основных возможностей Markdown и показывает структуру, функции и особенности проекта **FileManagerApp**.
-
-
-
 ## Ссылки
 
 [GitHub](https://github.com/SbKots/UserManagers)
